@@ -7,3 +7,4 @@ Plans for this app
 Phase - 1
 
 1. Create the basic pages - Home, Product Listings, Cart, Account
+2. Connect to the Django backend API
