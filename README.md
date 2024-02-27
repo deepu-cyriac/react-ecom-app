@@ -6,5 +6,5 @@ Plans for this app
 
 Phase - 1
 
-1. Create the basic pages - Home, Product Listings, Cart, Account
+1. Create the basic pages - Home, Product Listings, Cart, Account (Maintain same codebase as React Native counterpart)
 2. Connect to the Django backend API
